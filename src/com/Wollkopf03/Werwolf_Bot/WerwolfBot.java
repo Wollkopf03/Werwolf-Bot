@@ -1,9 +1,9 @@
-package de.wolle;
+package com.Wollkopf03.Werwolf_Bot;
 
 import org.javacord.api.DiscordApi;
 import org.javacord.api.DiscordApiBuilder;
 
-import de.wolle.listener.CommandListener;
+import com.Wollkopf03.Werwolf_Bot.listeners.CommandListener;
 
 public class WerwolfBot {
 

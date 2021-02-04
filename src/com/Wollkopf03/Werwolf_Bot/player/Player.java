@@ -1,4 +1,4 @@
-package de.wolle.player;
+package com.Wollkopf03.Werwolf_Bot.player;
 
 import java.util.Optional;
 

@@ -1,4 +1,4 @@
-package de.wolle.lobby;
+package com.Wollkopf03.Werwolf_Bot.lobby;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -9,9 +9,9 @@ import org.javacord.api.entity.message.embed.EmbedBuilder;
 import org.javacord.api.entity.server.Server;
 import org.javacord.api.entity.user.User;
 
-import de.wolle.listener.CommandListener;
-import de.wolle.player.Player;
-import de.wolle.player.Role;
+import com.Wollkopf03.Werwolf_Bot.listeners.CommandListener;
+import com.Wollkopf03.Werwolf_Bot.player.Player;
+import com.Wollkopf03.Werwolf_Bot.player.Role;
 
 public class Lobby {
 

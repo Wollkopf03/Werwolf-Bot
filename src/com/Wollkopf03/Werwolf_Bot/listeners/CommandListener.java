@@ -1,4 +1,4 @@
-package de.wolle.listener;
+package com.Wollkopf03.Werwolf_Bot.listeners;
 
 import java.awt.Color;
 import java.util.ArrayList;
@@ -13,8 +13,8 @@ import org.javacord.api.entity.user.User;
 import org.javacord.api.event.message.MessageCreateEvent;
 import org.javacord.api.listener.message.MessageCreateListener;
 
-import de.wolle.lobby.Lobby;
-import de.wolle.player.Role;
+import com.Wollkopf03.Werwolf_Bot.lobby.Lobby;
+import com.Wollkopf03.Werwolf_Bot.player.Role;
 
 public class CommandListener implements MessageCreateListener {
 
